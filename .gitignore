@@ -1,0 +1,4 @@
+distribution/deps/
+distribution/work/
+distribution/build-*/
+.DS_Store

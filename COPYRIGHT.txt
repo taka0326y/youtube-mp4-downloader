@@ -1,0 +1,1 @@
+Original application source and assets: copyright 2026 by the application author. All rights reserved. No additional license is granted for the original application by publishing this source. Third-party components retain their own licenses; see distribution/THIRD-PARTY.md and the bundled notices.
